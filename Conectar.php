@@ -1,7 +1,7 @@
 <?php
-    $host = "localhost";
-    $usuario = "root";
-    $senha = "";
+    $host = "34.70.215.38";
+    $usuario = "bookmark";
+    $senha = "AV1";
     $banco = "bookmark";
 
     $dbcon = new MySQLi("$host", "$usuario", "$senha", "$banco");
